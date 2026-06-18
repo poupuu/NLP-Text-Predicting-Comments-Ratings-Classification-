@@ -1,6 +1,6 @@
 # NLP-Text-Predicting-Comments-Ratings-Classification
 
-![Ratings 5 Review](assets/Modified-Model2-Results.png)
+![Ratings 5 Review](assets/wordcloud.png)
 
 ## Summary
 This project develops a Natural Language Processing (NLP) machine learning pipeline to predict numerical user ratings based on unstructured text reviews. Using data scraped from the Google Play Store for the game "Genshin Impact," the project evaluates and compares different text representation methods (TF-IDF vs. Word2Vec) alongside various classification algorithms (Logistic Regression, SVM, LightGBM) to discover the most effective predictive model.
